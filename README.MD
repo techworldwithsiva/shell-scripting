@@ -8,6 +8,8 @@ I am going to cover everything in shell scripting from basics to advanced.
 
 #### Environment Setup
 
+https://www.youtube.com/watch?v=AZEX9f_kXcE&list=PL1jY4BuFJn1cLJ2WCSeQbY0g4ye9gOgEI&index=1&t=489s
+
 * You should have AWS account
 * Personal laptop with the below tools
     * Putty
