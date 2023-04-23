@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=AZEX9f_kXcE&list=PL1jY4BuFJn1cLJ2WCSeQbY0g4ye9gO
 
 ### OS used
 
-I am mostly using AWS Linux 2. You can use any OS like Ubuntu, Centos, etc.
+I am mostly using AWS Linux 2. You can use any OS like Ubuntu, Centos, etc. Few commands will be changed based on OS.
 
 * For Ubuntu username is ubuntu.
 * For Centos username is centos.
