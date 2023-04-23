@@ -18,3 +18,12 @@ https://www.youtube.com/watch?v=AZEX9f_kXcE&list=PL1jY4BuFJn1cLJ2WCSeQbY0g4ye9gO
     * Notepad++
 
 ![alt text](shell.jpg)
+
+### OS used
+
+I am mostly using AWS Linux 2. You can use any OS like Ubuntu, Centos, etc.
+
+* For Ubuntu username is ubuntu.
+* For Centos username is centos.
+* For AWS Linux 2 username is ec2-user.
+
